@@ -1,7 +1,7 @@
 # SmartXMLAnalizer
 
 Run application:
-java -jar smartAnalyzer.jar <input_origin_file_path> <input_other_sample_file_path> <target_element_id>
+java -jar smartAnalyzer.jar <input_origin_file_path> <input_other_sample_file_path> <target_element_id_cssQuery>
 
 Results:
 sample-1-evil-gemini.html:
